@@ -1,16 +1,3 @@
-/**
- * Count pageviews form GA or local cache file.
- *
- * Dependences:
- *   - jQuery
- *   - countUp.js <https://github.com/inorganik/countUp.js>
- *
- * v2.0
- * https://github.com/cotes2020/jekyll-theme-chirpy
- * © 2018-2019 Cotes Chung
- * MIT License
- */
-
 var getInitStatus = (function () {
   var hasInit = false;
   return () => {
