@@ -5,7 +5,7 @@ version=0.0.1
 bundle install
 
 # build source code
-JEKYLL_ENV=production bundle exec jekyll build
+JEKYLL_ENV=production bundle exec jekyll build --incremental
 
 # build docker image and push to docker hub
 docker build -t it4u-portal:$version .
