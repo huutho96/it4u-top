@@ -1,6 +1,9 @@
 #!/bin/bash
 version=0.0.1
 
+# update gem
+bundle install
+
 # build source code
 JEKYLL_ENV=production bundle exec jekyll build
 
