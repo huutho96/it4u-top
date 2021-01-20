@@ -4,6 +4,9 @@ version=0.0.1
 # update gem
 bundle install
 
+# remove current source
+rm -rf ./_site/*
+
 # build source code
 JEKYLL_ENV=production bundle exec jekyll build --incremental
 
