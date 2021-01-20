@@ -6,7 +6,7 @@ description: >- # used by seo meta and the atom feed
   I have a passionate interest in building awesome products, also rock in Java, Python, NodeJS, C/C++, Javascript, PHP,…. In my spare time, I enjoy creating online courses about programming and publish these course free on my fanpage and my youtube channel..
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "http://localhost:4000/"
+url: "https://it4u.top"
 
 author: louis.it # change to your full name
 
@@ -64,7 +64,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: light # [light|dark]
+theme_mode: dark # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
