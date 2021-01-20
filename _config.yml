@@ -167,6 +167,9 @@ exclude:
   - docs
   - README.md
   - LICENSE
+  - docker-compose.yml
+  - docker.sh
+  - Dockerfile
 
 jekyll-archives:
   enabled: [categories, tags]
