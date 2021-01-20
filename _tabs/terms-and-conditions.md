@@ -1,8 +1,9 @@
 ---
-title: Terms and conditions
+title: Terms & conditions
 icon: fas fa-asterisk
 order: 4
 ---
 
 ## Comment
-*Input valid comment*
+
+_Input valid comment_
