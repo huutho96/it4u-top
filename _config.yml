@@ -1,9 +1,9 @@
-title: Louis Nguyen # the main title
+title: IT4u
 
-tagline: Fullstack Developer # it will display as the sub-title
+tagline: LEARN IT and LIVE IT with us!!!
 
-description: >- # used by seo meta and the atom feed
-  I have a passionate interest in building awesome products, also rock in Java, Python, NodeJS, C/C++, Javascript, PHP,…. In my spare time, I enjoy creating online courses about programming and publish these course free on my fanpage and my youtube channel..
+description: >-
+  Learn and apply tips and techniques for working with ITS tools, products, and services.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://it4u.top"
@@ -73,8 +73,7 @@ theme_mode: dark # [light|dark]
 # e.g. 'https://cdn.com'
 img_cdn: ""
 
-# the avatar on sidebar, support local or CORS resources
-avatar: https://i2.wp.com/it4u.top/wp-content/uploads/2020/01/30261463_1105773302896401_8151292870862251723_n.jpg
+avatar: https://it4u.top/assets/img/favicons/logo.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
