@@ -82,4 +82,5 @@ I also supported the company to finish other products.
 ## References
 - <a id="1">[1]</a> https://iot.uit.edu.vn
 - <a id="2">[2]</a> Private project.
+- <a id="3">[3]</a> Private project.
 
