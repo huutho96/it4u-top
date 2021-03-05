@@ -1,13 +1,12 @@
 ---
 title: Hello World
 author: Louis Nguyen
-date: 2019-08-09 20:55:00 +0800
+date: 2019-08-09 20:55:00 +0700
 categories: [Blogging, Tutorial]
 tags: [begining, hello world]
 pin: true
 comments: true
 ---
-
 
 ## Hello World
 
