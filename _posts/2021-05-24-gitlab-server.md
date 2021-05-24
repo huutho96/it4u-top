@@ -78,3 +78,8 @@ docker-compose up
 - It will take few minutes to complete, so please wait.
 - After completing, you can access the service from the internet via your domain name.
 - The admin username is root and the server will ask you can change the password of root user before using.
+
+
+### 3. Referral.
+- [https://github.com/GetchaDEAGLE/gitlab-https-docker/blob/master/docker-compose.yml](https://github.com/GetchaDEAGLE/gitlab-https-docker/blob/master/docker-compose.yml)
+- [https://docs.gitlab.com/omnibus/docker/](https://docs.gitlab.com/omnibus/docker/)
