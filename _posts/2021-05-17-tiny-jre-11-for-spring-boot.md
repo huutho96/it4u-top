@@ -8,7 +8,7 @@ pin: true
 comments: true
 ---
 
-### 1. Why we neet to build a tiny docker image.
+### 1. Why we need to build a tiny docker image.
 - Nowadays, almost applications will be deployed by docker image because it takes care the environment for us, your application will work properly if your host is good. It means that you deploy the host to run docker only, all other configurations already include in docker image.
 
 - As you can see, before deploying or running, the system have to pull a matching image and it takes a few seconds or a minute. Actually, we have an option to pull the image at the first time only, then the system will cache the image. But if we want to re-pull the image with the same tag, the latest updating will not be applied.
