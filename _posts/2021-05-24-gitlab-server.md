@@ -79,7 +79,11 @@ docker-compose up
 - After completing, you can access the service from the internet via your domain name.
 - The admin username is root and the server will ask you can change the password of root user before using.
 
+### 3. Issues.
+I faced an issue with SSL when I cloned source code. After researched, I found 2 articles which can have us to resolve the issue.
+- [Issue list](https://docs.gitlab.com/omnibus/settings/ssl.html#common-ssl-errors)
+- [PEM SSL Creation](https://www.digicert.com/kb/ssl-support/pem-ssl-creation.htm)
 
-### 3. Referral.
+### 4. Referral.
 - [https://github.com/GetchaDEAGLE/gitlab-https-docker/blob/master/docker-compose.yml](https://github.com/GetchaDEAGLE/gitlab-https-docker/blob/master/docker-compose.yml)
 - [https://docs.gitlab.com/omnibus/docker/](https://docs.gitlab.com/omnibus/docker/)
